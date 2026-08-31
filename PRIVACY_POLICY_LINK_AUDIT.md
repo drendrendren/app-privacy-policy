@@ -14,7 +14,6 @@
 
 ## 사용 중 — 비공개 전환 전 교체 필요 (65개)
 
-- [x] `Privacy Policy(Austrailia Rok currency converter)` — [App Store](https://apps.apple.com/kr/app/id6756516260)
 - [x] `Privacy Policy(Battery Train)` — [App Store](https://apps.apple.com/kr/app/id6780470432)
 - [x] `Privacy Policy(Catch Mogi)` — [App Store](https://apps.apple.com/kr/app/id6782547199), [Google Play](https://play.google.com/store/apps/details?id=com.catchmogi.android)
 - [x] `Privacy Policy(Crazy mosquito)` — [App Store](https://apps.apple.com/kr/app/id6777620824)
