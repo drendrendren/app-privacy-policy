@@ -14,11 +14,9 @@
 
 ## 사용 중 — 비공개 전환 전 교체 필요 (65개)
 
-- [x] `Privacy Policy(Battery Train)` — [App Store](https://apps.apple.com/kr/app/id6780470432)
 - [x] `Privacy Policy(Catch Mogi)` — [App Store](https://apps.apple.com/kr/app/id6782547199), [Google Play](https://play.google.com/store/apps/details?id=com.catchmogi.android)
 - [x] `Privacy Policy(Crazy mosquito)` — [App Store](https://apps.apple.com/kr/app/id6777620824)
 - [x] `Privacy Policy(Crop audio)` — [App Store](https://apps.apple.com/kr/app/id6782383461)
-- [x] `Privacy Policy(Dog bamti)` — [App Store](https://apps.apple.com/kr/app/id6757624792)
 - [x] `Privacy Policy(Dry speaker)` — [App Store](https://apps.apple.com/kr/app/id6783609516)
 - [x] `Privacy Policy(EoDi)` — [App Store](https://apps.apple.com/kr/app/id6749798141)
 - [x] `Privacy Policy(Free Wifi Map)` — [App Store](https://apps.apple.com/kr/app/id6761754019)
